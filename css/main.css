@@ -14,17 +14,17 @@ body {
     margin-right: auto;
     max-height: 250px;
     border: 10px solid var(--white);
-    border-radius: 7%;
+    border-radius: 16px;
 }
 .imgContainer {
     border: 10px solid var(--white);
-    border-radius: 10% 10% 0% 0%;
+    border-radius: 16px 16px 0 0;
     background-color: var(--white);
 }
 .textContainer {
     font-family: 'Outfit', sans-serif;
     border: 10px solid var(--white);
-    border-radius: 0% 0% 10% 10%;
+    border-radius: 0 0 16px 16px;
     background-color: var(--white);
 }
  .textinbold {
