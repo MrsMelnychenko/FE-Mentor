@@ -2,11 +2,8 @@
     --white: hsl(0, 0%, 100%);
     --lightGrey: hsl(212, 45%, 89%);
     --grayishBlue: hsl(220, 15%, 55%);
-    --darkblue: hsl(218, 44%, 22%);
+    --darkBlue: hsl(218, 44%, 22%);
     --fontSize: (paragraph): 15px;
 }
 
-@font-face {
-    font-family: Outfit;
-    src: url(https://fonts.google.com/specimen/Outfit);
-}
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
