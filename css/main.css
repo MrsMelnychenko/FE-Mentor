@@ -1,0 +1,12 @@
+.qrcard {
+    background-color: var(--grayishBlue);
+}
+.textinbold {
+    font-family: Outfit;
+    font-weight: var(.textinbold);
+}
+
+.normaltext {
+    font-family: Outfit;
+    font-weight: var(.normaltext);
+}
